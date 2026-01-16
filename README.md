@@ -264,7 +264,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 **David A. Besemer**  
 Independent Researcher  
-Email: besemer@independent-research.org
 
 ## 🌟 Acknowledgments
 
